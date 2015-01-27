@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>optimist</artifactId>
-    <version>0.6.1-SNAPSHOT</version>
+    <version>0.6.1</version>
     <name>optimist</name>
     <description>WebJar for optimist</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/optimist</url>
         <connection>scm:git:https://github.com/webjars/optimist.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/optimist.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>optimist-0.6.1</tag>
     </scm>
 
     <developers>
